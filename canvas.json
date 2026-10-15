@@ -1,0 +1,136 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Layout2.dc.html": {
+      "h": 396,
+      "title": "Layout 2: services + centered headline",
+      "w": 1584,
+      "x": 0,
+      "y": 476
+    },
+    "Layout3.dc.html": {
+      "h": 396,
+      "title": "Layout 3: orange + charcoal, no design system",
+      "w": 1584,
+      "x": 0,
+      "y": 952
+    },
+    "Layout4-0f17.dc.html": {
+      "h": 396,
+      "page": "p2",
+      "title": "Layout 4: reaction bubbles copy 2",
+      "w": 1584,
+      "x": 3328,
+      "y": 0
+    },
+    "Layout4-giz6.dc.html": {
+      "h": 396,
+      "page": "p2",
+      "title": "Layout 4: reaction bubbles copy",
+      "w": 1584,
+      "x": 1664,
+      "y": 0
+    },
+    "Layout4-v9z3.dc.html": {
+      "h": 396,
+      "page": "p2",
+      "title": "Layout 4: reaction bubbles copy 3",
+      "w": 1584,
+      "x": 4992,
+      "y": 0
+    },
+    "Layout4.dc.html": {
+      "h": 396,
+      "page": "p2",
+      "title": "Layout 4: reaction bubbles",
+      "w": 1584,
+      "x": 0,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "h": 396,
+      "title": "LinkedIn Banner 1584x396",
+      "w": 1584,
+      "x": 0,
+      "y": 0
+    },
+    "Web-Certificates.dc.html": {
+      "h": 984,
+      "page": "p3",
+      "title": "Website portfolio: certificates page",
+      "w": 1440,
+      "x": 3630,
+      "y": 0
+    },
+    "Web-Desktop.dc.html": {
+      "h": 7264,
+      "page": "p3",
+      "title": "Website portfolio: desktop",
+      "w": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "Web-Mobile.dc.html": {
+      "h": 6692,
+      "page": "p3",
+      "title": "Website portfolio: mobile",
+      "w": 390,
+      "x": 1560,
+      "y": 0
+    },
+    "Web-Resume.dc.html": {
+      "h": 2650,
+      "page": "p3",
+      "title": "Website portfolio: resume page",
+      "w": 1440,
+      "x": 2070,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-10-15T10:40:00Z",
+    "v": 1
+  },
+  "designSystems": [
+    {
+      "artifact": "https://claude.ai/artifact/NzVU37Prvf5j3b5xcdQREC",
+      "copiedAt": "2026-10-15T10:40:00Z",
+      "namespace": "cristy-design",
+      "title": "Cristy Design",
+      "version": "1792059911-9c2d"
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {},
+  "order": [
+    "Main.dc.html",
+    "Layout2.dc.html",
+    "Layout3.dc.html",
+    "Layout4.dc.html",
+    "Layout4-giz6.dc.html",
+    "Layout4-0f17.dc.html",
+    "Layout4-v9z3.dc.html",
+    "Web-Desktop.dc.html",
+    "Web-Mobile.dc.html",
+    "Web-Resume.dc.html",
+    "Web-Certificates.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "p1",
+      "name": "Page 1"
+    },
+    {
+      "id": "p2",
+      "name": "Page 2"
+    },
+    {
+      "id": "p3",
+      "name": "Website Portfolio"
+    }
+  ],
+  "title": "Cristy LinkedIn Banner"
+}
